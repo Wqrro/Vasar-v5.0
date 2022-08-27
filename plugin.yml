@@ -1,0 +1,57 @@
+name: Vasar
+version: 5.0
+api: 4.0.0
+depend:
+  - DEVirion
+author: Warro
+main: Warro\Base
+permissions:
+  vasar.command.rank:
+    default: op
+  vasar.command.nick:
+    default: op
+  vasar.command.disguise:
+    default: op
+  vasar.command.fly:
+    default: op
+  vasar.command.who:
+    default: op
+  vasar.command.vanish:
+    default: op
+  vasar.command.alias:
+    default: op
+  vasar.command.stp:
+    default: op
+  vasar.command.ban:
+    default: op
+  vasar.ban.see:
+    default: op
+  vasar.ban.manage:
+    default: op
+  vasar.command.mute:
+    default: op
+  vasar.mute.see:
+    default: op
+  vasar.mute.manage:
+    default: op
+  vasar.command.blacklist:
+    default: op
+  vasar.blacklist.see:
+    default: op
+  vasar.blacklist.manage:
+    default: op
+
+
+  vasar.chat.global:
+    default: true
+  vasar.chat.staff:
+    default: op
+
+  vasar.store.plus:
+    default: false
+  vasar.store.unban:
+    default: false
+  vasar.store.unblacklist:
+    default: false
+  vasar.store.broadcast:
+    default: false
