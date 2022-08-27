@@ -2,25 +2,13 @@
 
 _**Incomplete and entirely hardcoded. For PocketMine 4.X.X.**_
 
+Many thanks to Prim for plenty of help over the years which basically formed this plugin. Check out
+his [GitHub page](https://github.com/Prim69) or find him on Discord at prim#0419.
+
 My last contribution to Vasar, the final PocketMine plugin. I wrote this plugin in a very specific way, for a very
 specific server, as 1 person. Meaning everything exists for a reason, and everything is placed or done a certain way for
 a reason. Even the smallest changes can break this plugin or void all the small details. I planned to have duels, and an
 automated 1v1 tournament (aka Clash), before each could be completed I decided to leave Vasar.
-
-If you're lazy feel free to use the maps I created:
-
-Spawn (I didn't make this, I purchased it from a build
-team): https://www.mediafire.com/file/lhifzblm1ofvbg0/Vasar_Greek_Style_Lobby.zip/file
-
-NoDebuff Tetris FFA: https://www.mediafire.com/file/kc3ivmrzjd8a115/vasar_nodebuff_ffa_tetris.zip/file
-
-NoDebuff Plains FFA: https://www.mediafire.com/file/kot6q11rqfoi1gj/vasar_nodebuff_ffa_plains.zip/file
-
-Sumo FFA: https://www.mediafire.com/file/7c3u316blbv0qaf/vasar_sumo_ffa.zip/file
-
-Hive FFA: https://www.mediafire.com/file/1k6cjp98r89xmc7/vasar_hive_ffa.zip/file
-
-Battlefield FFA: https://www.mediafire.com/file/026ke9wnwfyax91/vasar_battlefield_ffa.zip/file
 
 ### **Core features:**
 
@@ -72,4 +60,20 @@ Battlefield FFA: https://www.mediafire.com/file/026ke9wnwfyax91/vasar_battlefiel
 - PHP 8+
 - A brain
 
-###### **By Warro#7777**
+### **Extras:**
+
+These are the maps I used for Vasar, each map was created by me apart from the spawn.
+
+Spawn: https://www.mediafire.com/file/lhifzblm1ofvbg0/Vasar_Greek_Style_Lobby.zip/file
+
+NoDebuff Tetris FFA: https://www.mediafire.com/file/kc3ivmrzjd8a115/vasar_nodebuff_ffa_tetris.zip/file
+
+NoDebuff Plains FFA: https://www.mediafire.com/file/kot6q11rqfoi1gj/vasar_nodebuff_ffa_plains.zip/file
+
+Sumo FFA: https://www.mediafire.com/file/7c3u316blbv0qaf/vasar_sumo_ffa.zip/file
+
+Hive FFA: https://www.mediafire.com/file/1k6cjp98r89xmc7/vasar_hive_ffa.zip/file
+
+Battlefield FFA: https://www.mediafire.com/file/026ke9wnwfyax91/vasar_battlefield_ffa.zip/file
+
+###### **Developed by Warro#7777**
