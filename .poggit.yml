@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Wqrro/Vasar-v5.0
+build-by-default: true
+branches:
+- main
+projects:
+  Vasar-v5.0:
+    path: ""
+...
